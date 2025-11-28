@@ -63,6 +63,7 @@ text
 部署完成後，您將獲得一個訪問地址：`https://<your-worker>.<your-subdomain>.workers.dev`
 
 ---
+最新演示站:https://koy.xx.kg/
 
 ## 🎨 模型與風格列表
 
